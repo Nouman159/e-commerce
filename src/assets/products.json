@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Espresso",
+        "quantity": 1,
+        "price": 3.00,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Americano",
+        "quantity": 1,
+        "price": 3.50,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Cappuccino",
+        "quantity": 1,
+        "price": 4.00,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Latte",
+        "quantity": 1,
+        "price": 4.50,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Macchiato",
+        "quantity": 1,
+        "price": 3.75,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Flat White",
+        "quantity": 1,
+        "price": 4.25,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Mocha",
+        "quantity": 1,
+        "price": 5.00,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Cold Brew",
+        "quantity": 1,
+        "price": 4.75,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Nitro Coffee",
+        "quantity": 1,
+        "price": 5.25,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Irish Coffee",
+        "quantity": 1,
+        "price": 6.00,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Turkish Coffee",
+        "quantity": 1,
+        "price": 3.25,
+        "img": "/Assets/background.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Affogato",
+        "quantity": 1,
+        "price": 6.50,
+        "img": "/Assets/background.jpeg"
+    }
+]
