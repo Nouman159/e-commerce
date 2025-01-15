@@ -12,7 +12,7 @@ const Hero = () => {
                         href="#shop"
                         className="bg-orange-600 hover:bg-orange-500 text-white font-semibold py-2 px-6 rounded-full text-lg transition duration-300"
                     >
-                        Shop Now
+                        Shop Now Here
                     </a>
                 </div>
             </div>
